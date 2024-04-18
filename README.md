@@ -13,3 +13,5 @@ Rank 29,68,003 --> rank is updated next day / 06/04/2024 </br>
 Rank 29,82,734 --> 125ValidPalindrome / 12/04/2024 </br>
 Rank 29,82,734 --> 11ContainerWithMostWater / 12/04/2024 </br>
 Rank 27,90,797 --> 42TrappingRainWaterHardTopicsCompanies / 16/04/2024 </br>
+Rank 27,05,514  --> 20ValidParentheses / 18/04/2024 </br>
+Rank 27,07,732  --> 155MinStackMedium / 18/04/2024 </br>
