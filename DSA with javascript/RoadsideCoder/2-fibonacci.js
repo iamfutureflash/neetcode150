@@ -15,7 +15,12 @@ const FibonacciSeries = (x) => {
     for (let i = 2; i <= x; i++) {
         arr.push(arr[i - 1] + arr[i - 2]);
     }
-    return arr;
+    return arr[x];
 }
-console.log(FibonacciSeries(121));
-console.log(FibonacciSeries(10));
+console.log(FibonacciSeries(2));
+console.log(FibonacciSeries(3));
+
+
+const fibWithRecursion = (n) => (n <= 1 ? n : fibWithRecursion(n - 1) + fibWithRecursion(n - 2));
+console.log(fibWithRecursion(2));
+console.log(fibWithRecursion(3));
