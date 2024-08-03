@@ -15,3 +15,4 @@ Rank 29,82,734 --> 11ContainerWithMostWater / 12/04/2024 </br>
 Rank 27,90,797 --> 42TrappingRainWaterHardTopicsCompanies / 16/04/2024 </br>
 Rank 27,05,514  --> 20ValidParentheses / 18/04/2024 </br>
 Rank 27,07,732  --> 155MinStackMedium / 18/04/2024 </br>
+Rank 28,13,425  -->                  / 03/08/2024 </br>
