@@ -16,3 +16,5 @@ Rank 27,90,797 --> 42TrappingRainWaterHardTopicsCompanies / 16/04/2024 </br>
 Rank 27,05,514  --> 20ValidParentheses / 18/04/2024 </br>
 Rank 27,07,732  --> 155MinStackMedium / 18/04/2024 </br>
 Rank 28,13,425  -->                  / 03/08/2024 </br>
+Rank 26,68,706  --> 1-Two-Sum-Leetcode-1-HashMap.ts / 04/08/2024 </br>
+Rank 26,68,706  --> 2-Sliding-Window-Best-Time-to-Buy-and-Sell-Stock-Leetcode-121.ts / 04/08/2024 </br>
