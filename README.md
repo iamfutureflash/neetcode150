@@ -18,3 +18,4 @@ Rank 27,07,732  --> 155MinStackMedium / 18/04/2024 </br>
 Rank 28,13,425  -->                  / 03/08/2024 </br>
 Rank 26,68,706  --> 1-Two-Sum-Leetcode-1-HashMap.ts / 04/08/2024 </br>
 Rank 26,68,706  --> 2-Sliding-Window-Best-Time-to-Buy-and-Sell-Stock-Leetcode-121.ts / 04/08/2024 </br>
+Rank 26,68,706  --> 3-217-Contains-Duplicate.ts / 05/08/2024 </br>
