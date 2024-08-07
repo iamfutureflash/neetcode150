@@ -25,5 +25,6 @@ Rank 26,04,922  --> 5-53-Maximum-SubArray.ts / 05/08/2024 </br>
 Rank 26,04,922  --> 6-152-Maximum-Product-SubArray.ts / 05/08/2024 </br>
 Rank 25,43,953  --> 224-Basic-Calculator.ts     / 06/08/2024 </br>
 Rank 25,43,953  --> 227-Basic-Calculator-II.ts / 06/08/2024 </br>
-Rank 24,28,209  --> 227-Basic-Calculator-II.ts with deep understanding / 0/08/2024 </br>
-Rank 24,28,209  --> 389-Find-the-Difference.ts / 0/08/2024 </br>
+Rank 24,28,209  --> 227-Basic-Calculator-II.ts with deep understanding / 07/08/2024 </br>
+Rank 24,28,209  --> 389-Find-the-Difference.ts / 07/08/2024 </br>
+Rank 24,28,209  --> 1160-Find-Words-That-Can-Be-Formed-by-Characters.ts / 08/08/2024 </br>
