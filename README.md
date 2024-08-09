@@ -28,3 +28,7 @@ Rank 25,43,953  --> 227-Basic-Calculator-II.ts / 06/08/2024 </br>
 Rank 24,28,209  --> 227-Basic-Calculator-II.ts with deep understanding / 07/08/2024 </br>
 Rank 24,28,209  --> 389-Find-the-Difference.ts / 07/08/2024 </br>
 Rank 24,28,209  --> 1160-Find-Words-That-Can-Be-Formed-by-Characters.ts / 08/08/2024 </br>
+Rank 23,28,228  -->                                                    / 08/08/2024 </br>
+Rank 22,82,600  --> 2264-Largest-3-Same-Digit-Number-in-String.ts     / 09/08/2024 </br>
+Rank 22,82,600  --> 1903-Largest-Odd-Number-in-String.ts             / 09/08/2024 </br>
+Rank 22,82,600  --> 1688-Count-of-Matches-in-Tournament.ts          / 10/08/2024 </br>
