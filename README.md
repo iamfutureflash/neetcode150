@@ -32,3 +32,6 @@ Rank 23,28,228  -->                                                    / 08/08/2
 Rank 22,82,600  --> 2264-Largest-3-Same-Digit-Number-in-String.ts     / 09/08/2024 </br>
 Rank 22,82,600  --> 1903-Largest-Odd-Number-in-String.ts             / 09/08/2024 </br>
 Rank 22,82,600  --> 1688-Count-of-Matches-in-Tournament.ts          / 10/08/2024 </br>
+Rank 21,56,134  --> 867-Transpose-Matrix.ts                        / 10/08/2024 - 05:11 PM </br>
+Rank 21,56,134  --> 1464-Maximum-Product-of-Two-Elements-in-an-Array.ts                        / 10/08/2024 - 08:32 PM </br>
+Rank 21,56,134  --> 73-Set-Matrix-Zeroes.ts                        / 10/08/2024 - 08:32 PM </br>
