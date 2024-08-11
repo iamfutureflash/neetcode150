@@ -35,4 +35,6 @@ Rank 22,82,600  --> 1688-Count-of-Matches-in-Tournament.ts          / 10/08/2024
 Rank 21,56,134  --> 867-Transpose-Matrix.ts                        / 10/08/2024 - 05:11 PM </br>
 Rank 21,56,134  --> 1464-Maximum-Product-of-Two-Elements-in-an-Array.ts / 10/08/2024 - 08:32 PM </br>
 Rank 21,56,134  --> 1582-Special-Positions-in-a-Binary-Matrix-Easy.ts  / 10/08/2024 - 08:32 PM </br>
-Rank 21,56,134  --> 1582-Special-Positions-in-a-Binary-Matrix-Easy.ts revise  / 10/08/2024 - 08:24 PM </br>
+Rank 20,43,019  --> 1582-Special-Positions-in-a-Binary-Matrix-Easy.ts revise  / 11/08/2024 - 08:24 PM </br>
+Rank 20,43,019  --> 1436-Destination-City.ts  / 11/08/2024 - 08:24 PM </br>
+Rank 20,43,019  --> 242-Valid-Anagram.ts  / 11/08/2024 - 11:36 PM </br>
