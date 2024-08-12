@@ -39,3 +39,4 @@ Rank 20,43,019  --> 1582-Special-Positions-in-a-Binary-Matrix-Easy.ts revise  / 
 Rank 20,43,019  --> 1436-Destination-City.ts  / 11/08/2024 - 08:24 PM </br>
 Rank 20,43,019  --> 242-Valid-Anagram.ts  / 11/08/2024 - 11:36 PM </br>
 Rank 20,09,539  --> 1913-Maximum-Product-Difference-Between-Two-Pairs.ts  / 12/08/2024 - 04:58 PM - done with 2 approaches </br>
+Rank 20,09,539  --> 2706-Buy-Two-Chocolates.ts  / 12/08/2024 - 05:47 PM - done with 2 approaches </br>
