@@ -40,3 +40,6 @@ Rank 20,43,019  --> 1436-Destination-City.ts  / 11/08/2024 - 08:24 PM </br>
 Rank 20,43,019  --> 242-Valid-Anagram.ts  / 11/08/2024 - 11:36 PM </br>
 Rank 20,09,539  --> 1913-Maximum-Product-Difference-Between-Two-Pairs.ts  / 12/08/2024 - 04:58 PM - done with 2 approaches </br>
 Rank 20,09,539  --> 2706-Buy-Two-Chocolates.ts  / 12/08/2024 - 05:47 PM - done with 2 approaches </br>
+Rank 20,09,539  --> 1422-Maximum-Score-After-Splitting-a-String.ts  / 12/08/2024 - 09:46 PM - done with 3 approaches </br>
+Rank 19,13,346  --> 1496-Path-Crossing.ts  / 13/08/2024 - 10:33 PM - done </br>
+i am very happy today that my leetcode rank reach to 19,13,346 from 34,84,506 and my aim is to improve my rank to 10,000, to better crack any interview
