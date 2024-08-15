@@ -46,3 +46,4 @@ i am very happy today that my leetcode rank reach to 19,13,346 from 34,84,506 an
 Rank 19,13,346  --> 1758-Minimum-Changes-To-Make-Alternating-Binary-String.ts  / 13/08/2024 - 10:38 PM - done </br>
 Rank 18,56,078  -->    </br>
 Rank 18,57,894  --> 1897-Redistribute-Characters-to-Make-All-Strings-Equal.ts  / 15/08/2024 - 11:30 PM - done </br>
+Rank 18,57,894  --> 1624-Largest-Substring-Between-Two-Equal-Characters.ts  / 15/08/2024 - 11:40 PM - done with 3 approaches </br>
