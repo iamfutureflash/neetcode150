@@ -44,3 +44,5 @@ Rank 20,09,539  --> 1422-Maximum-Score-After-Splitting-a-String.ts  / 12/08/2024
 Rank 19,13,346  --> 1496-Path-Crossing.ts  / 13/08/2024 - 10:33 PM - done </br>
 i am very happy today that my leetcode rank reach to 19,13,346 from 34,84,506 and my aim is to get into Google and improve my rank to 10,000, to better crack any interview and improve as a developer.
 Rank 19,13,346  --> 1758-Minimum-Changes-To-Make-Alternating-Binary-String.ts  / 13/08/2024 - 10:38 PM - done </br>
+Rank 18,56,078  -->    </br>
+Rank 18,57,894  --> 1897-Redistribute-Characters-to-Make-All-Strings-Equal.ts  / 15/08/2024 - 11:30 PM - done </br>
