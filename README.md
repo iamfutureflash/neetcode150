@@ -47,4 +47,5 @@ Rank 19,13,346  --> 1758-Minimum-Changes-To-Make-Alternating-Binary-String.ts  /
 Rank 18,56,078  -->    </br>
 Rank 18,57,894  --> 1897-Redistribute-Characters-to-Make-All-Strings-Equal.ts  / 15/08/2024 - 11:30 PM - done </br>
 Rank 18,57,894  --> 1624-Largest-Substring-Between-Two-Equal-Characters.ts  / 15/08/2024 - 11:40 PM - done with 3 approaches </br>
-Rank 18,57,894  --> 455-Assign-Cookies.ts  / 16/08/2024 - 12:40 PM - done with 1 approaches </br>
+Rank 18,57,894  --> 455-Assign-Cookies.ts  / 16/08/2024 - 12:40 AM - done with 1 approaches </br>
+Rank 18,57,894  --> 860-Lemonade-Change.ts  / 16/08/2024 - 02:24 AM - done with 1 approaches </br>
