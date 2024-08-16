@@ -50,3 +50,4 @@ Rank 18,57,894  --> 1624-Largest-Substring-Between-Two-Equal-Characters.ts  / 15
 Rank 18,57,894  --> 455-Assign-Cookies.ts  / 16/08/2024 - 12:40 AM - done with 1 approaches </br>
 Rank 18,57,894  --> 860-Lemonade-Change.ts  / 16/08/2024 - 02:24 AM - done with 1 approaches </br>
 Rank 17,51,900  --> 2966-Divide-Array-Into-Arrays-With-Max-Difference.ts  / 16/08/2024 - 10:00 PM - done with 1 approaches </br>
+Rank 17,51,900  --> 387-First-Unique-Character-in-a-String.ts  / 16/08/2024 - 10:00 PM - done with 1 approaches </br>
