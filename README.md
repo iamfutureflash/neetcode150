@@ -55,4 +55,4 @@ Rank 17,51,900  --> 624-Maximum-Distance-in-Arrays.ts  / 16/08/2024 - 10:00 PM -
 Rank 16,81,144  --> 231-Power-of-Two.ts  / 17/08/2024 - 8:23 PM - done with 4 approaches </br>
 Rank 16,81,144  --> 326-Power-of-Three.ts  / 17/08/2024 - 9:19 PM - done with 3 approaches </br>
 Rank 16,81,144  --> 342-Power-of-Four.ts  / 17/08/2024 - 9:19 PM - done with 3 approaches </br>
-Rank 16,81,144  --> 191-Number-of-1-Bits.ts  / 17/08/2024 - 9:19 PM - done with 3 approaches </br>
+Rank 16,81,144  --> 191-Number-of-1-Bits.ts  / 17/08/2024 - 9:19 PM - done with 1 approaches </br>
