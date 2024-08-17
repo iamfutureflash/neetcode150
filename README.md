@@ -52,3 +52,4 @@ Rank 18,57,894  --> 860-Lemonade-Change.ts  / 16/08/2024 - 02:24 AM - done with 
 Rank 17,51,900  --> 2966-Divide-Array-Into-Arrays-With-Max-Difference.ts  / 16/08/2024 - 10:00 PM - done with 1 approaches </br>
 Rank 17,51,900  --> 387-First-Unique-Character-in-a-String.ts  / 16/08/2024 - 10:00 PM - done with 1 approaches </br>
 Rank 17,51,900  --> 624-Maximum-Distance-in-Arrays.ts  / 16/08/2024 - 10:00 PM - done with 1 approaches </br>
+Rank 16,81,144  --> 231-Power-of-Two.ts  / 17/08/2024 - 8:23 PM - done with 4 approaches </br>

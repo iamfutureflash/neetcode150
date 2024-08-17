@@ -5,9 +5,10 @@ function maxDistance(arrays: number[][]): number {
     for (const element of arrays) {
         const cMin = element[0];
         const cMax = element[element.length - 1];
-        md = Math.max(md, Math.abs(cMin - max), Math.abs(cMax - min));
+        md = Math.max(md, Math.abs(max - cMin), Math.abs(cMax - min));
         min = Math.min(min, cMin);
         max = Math.max(max, cMax);
+
     }
     return md;
 };
