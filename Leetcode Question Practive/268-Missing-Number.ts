@@ -1,6 +1,8 @@
 function missingNumber(nums: number[]): number {
     let n = nums.length;
     let sum = n * (n + 1) / 2;
+    let sum2 = n - 1 * ((n - 1) + 1) / 2;
+    console.log("n", n, "sum,sum2", sum, sum2);
     for (const element of nums) sum -= element;
     return sum;
 };
