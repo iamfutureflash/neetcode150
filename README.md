@@ -57,4 +57,4 @@ Rank 16,81,144  --> 326-Power-of-Three.ts  / 17/08/2024 - 9:19 PM - done with 3 
 Rank 16,81,144  --> 342-Power-of-Four.ts  / 17/08/2024 - 9:19 PM - done with 3 approaches </br>
 Rank 16,81,144  --> 191-Number-of-1-Bits.ts  / 17/08/2024 - 9:19 PM - done with 1 approaches </br>
 Rank 15,96,043  --> 268-Missing-Number.ts  / 18/08/2024 - 10:57 PM - done with 1 approaches </br>
-Rank 15,77,472  --> .ts  / 17/08/2024 - 10:57 PM - done with 1 approaches </br>
+Rank 15,77,472  --> 136-Single-Number.ts  / 19/08/2024 - 10:57 PM - done with 2 approaches </br>
