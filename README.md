@@ -60,3 +60,4 @@ Rank 15,96,043 --> 268-Missing-Number.ts / 18/08/2024 - 10:57 PM - done with 1 a
 Rank 15,77,472 --> 136-Single-Number.ts / 19/08/2024 - 10:57 PM - done with 2 approaches </br>
 Rank 15,77,472 --> 137-Single-Number-II.ts / 19/08/2024 - 10:57 PM - done with 1 approaches </br>
 Rank 15,77,472 --> 260-Single-Number-III.ts / 19/08/2024 - 10:57 PM - done with 1 approaches </br>
+Rank 15,16,491 --> 1980-Find-Unique-Binary-String.ts / 20/08/2024 - --:-- PM - done with 1 approaches </br>
