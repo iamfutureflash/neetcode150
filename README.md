@@ -64,3 +64,4 @@ Rank 15,16,491 --> 1980-Find-Unique-Binary-String.ts / 20/08/2024 - --:-- PM - d
 Rank 15,16,491 --> 2864-Maximum-Odd-Binary-Number.ts / 20/08/2024 - --:-- PM - done with 1 approaches </br>
 Rank 14,82,565 --> 977-Squares-of-a-Sorted-Array.ts / 22/08/2024 - 08:18 PM - done with 2 approaches </br>
 Rank 14,82,565 --> 3005-Count-Elements-With-Maximum-Frequency.ts / 22/08/2024 - 08:18 PM - done with 2 approaches </br>
+Rank 14,49,383 --> 2540-Minimum-Common-Value.ts / 23/08/2024 - 00:00 PM - done with 3 approaches </br>
