@@ -1,7 +1,6 @@
 function countStudents(students: number[], sandwiches: number[]): number {
-    let s = students.length;
     let c = 0;
-    while (s > 0) {
+    while (students.length > 0) {
         if (students[0] === sandwiches[0]) {
             students.shift();
             sandwiches.shift();
@@ -10,7 +9,7 @@ function countStudents(students: number[], sandwiches: number[]): number {
             students.push(students.shift()!);
             c++;
         }
-        if(c === s){
+        if(c === students.length){
             break;
         }
     }
