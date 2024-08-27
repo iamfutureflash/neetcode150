@@ -69,5 +69,5 @@ Rank 14,34,024 --> 349-Intersection-of-Two-Arrays.ts / 24/08/2024 - 10:39 PM - d
 Rank 14,34,024 --> 350-Intersection-of-Two-Arrays-II.ts / 24/08/2024 - 10:39 PM - done with 1 approaches </br>
 Rank 14,34,024 --> 205-Isomorphic-Strings.ts / 25/08/2024 - 10:39 PM - done with 1 approaches </br>
 Rank 13,87,440 --> 1614-Maximum-Nesting-Depth-of-the-Parentheses.ts / 26/08/2024 - - done with 2 approaches </br>
-Rank 13,87,440 --> 1700-Number-of-Students-Unable-to-Eat-Lunch.ts / 26/08/2024 - - done with 2 approaches </br>
+Rank 13,87,440 --> 1700-Number-of-Students-Unable-to-Eat-Lunch.ts / 26/08/2024 - - done with 1 approaches </br>
 Rank 13,73,381 --> 2073-Time-to-Buy-Tickets.ts / 26/08/2024 - - done with 2 approaches </br>
