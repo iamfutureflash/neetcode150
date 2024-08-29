@@ -71,3 +71,4 @@ Rank 14,34,024 --> 205-Isomorphic-Strings.ts / 25/08/2024 - 10:39 PM - done with
 Rank 13,87,440 --> 1614-Maximum-Nesting-Depth-of-the-Parentheses.ts / 26/08/2024 - - done with 2 approaches </br>
 Rank 13,73,381 --> 2073-Time-to-Buy-Tickets.ts / 26/08/2024 - - done with 2 approaches </br>
 Rank 13,59,623 --> 1700-Number-of-Students-Unable-to-Eat-Lunch.ts / 27/08/2024 - - done with 1 approaches </br>
+Rank 13,46,370 --> 404-Sum-of-Left-Leaves.ts / 29/08/2024 - - done with 1 approaches </br>
