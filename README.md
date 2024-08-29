@@ -73,3 +73,4 @@ Rank 13,73,381 --> 2073-Time-to-Buy-Tickets.ts / 26/08/2024 - - done with 2 appr
 Rank 13,59,623 --> 1700-Number-of-Students-Unable-to-Eat-Lunch.ts / 27/08/2024 - - done with 1 approaches </br>
 Rank 13,46,370 --> 404-Sum-of-Left-Leaves.ts / 29/08/2024 - - done with 1 approaches </br>
 Rank 13,46,370 --> 112-Path-Sum.ts / 29/08/2024 - - done with 1 approaches </br>
+Rank 13,46,370 --> 3158-Find-the-XOR-of-Numbers-Which-Appear-Twice.ts / 29/08/2024 - - done with 1 approaches </br>
