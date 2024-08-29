@@ -74,3 +74,4 @@ Rank 13,59,623 --> 1700-Number-of-Students-Unable-to-Eat-Lunch.ts / 27/08/2024 -
 Rank 13,46,370 --> 404-Sum-of-Left-Leaves.ts / 29/08/2024 - - done with 1 approaches </br>
 Rank 13,46,370 --> 112-Path-Sum.ts / 29/08/2024 - - done with 1 approaches </br>
 Rank 13,46,370 --> 3158-Find-the-XOR-of-Numbers-Which-Appear-Twice.ts / 29/08/2024 - - done with 1 approaches </br>
+Rank 13,33,232 --> 113-Path-Sum-II.ts / 29/08/2024 - - done with 1 approaches </br>
