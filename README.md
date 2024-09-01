@@ -76,3 +76,4 @@ Rank 13,46,370 --> 112-Path-Sum.ts / 29/08/2024 - - done with 1 approaches </br>
 Rank 13,46,370 --> 3158-Find-the-XOR-of-Numbers-Which-Appear-Twice.ts / 29/08/2024 - - done with 1 approaches </br>
 Rank 13,33,232 --> 113-Path-Sum-II.ts / 29/08/2024 - - done with 1 approaches </br>
 Rank 12,95,525 --> 124-Binary-Tree-Maximum-Path-Sum.ts / 01/09/2024 - - done with 1 approaches </br>
+Rank 12,95,525 --> 129-Sum-Root-to-Leaf-Numbers.ts / 01/09/2024 - - done with 1 approaches </br>
