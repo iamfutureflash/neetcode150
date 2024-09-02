@@ -78,4 +78,4 @@ Rank 13,33,232 --> 113-Path-Sum-II.ts / 29/08/2024 - - done with 1 approaches </
 Rank 12,95,525 --> 124-Binary-Tree-Maximum-Path-Sum.ts / 01/09/2024 - - done with 1 approaches </br>
 Rank 12,95,525 --> 129-Sum-Root-to-Leaf-Numbers.ts / 01/09/2024 - - done with 1 approaches </br>
 Rank 12,95,525 --> 1137-N-th-Tribonacci-Number.ts / 02/09/2024 - - done with 3 approaches </br>
-Rank 12,95,525 --> 509-Fibonacci-Number.ts / 02/09/2024 - - done with 1 approaches </br>
+Rank 12,95,525 --> 509-Fibonacci-Number.ts / 02/09/2024 - - done with 2 approaches </br>
