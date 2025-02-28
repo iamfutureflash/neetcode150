@@ -80,3 +80,4 @@ Rank 12,95,525 --> 129-Sum-Root-to-Leaf-Numbers.ts / 01/09/2024 - - done with 1 
 Rank 12,95,525 --> 1137-N-th-Tribonacci-Number.ts / 02/09/2024 - - done with 3 approaches </br>
 Rank 12,95,525 --> 509-Fibonacci-Number.ts / 02/09/2024 - - done with 2 approaches </br>
 Rank 12,60,201 --> 941-Valid-Mountain-Array.ts / 04/09/2024 - - done with 1 approaches </br>
+Rank 14,37,244 --> Find_the_Difference_3_Approaches_Phone_Interview_AMAZON_Leetcode_389.ts / 01/03/2025 - - done with 4 approaches </br>
