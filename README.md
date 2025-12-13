@@ -82,3 +82,4 @@ Rank 12,95,525 --> 509-Fibonacci-Number.ts / 02/09/2024 - - done with 2 approach
 Rank 12,60,201 --> 941-Valid-Mountain-Array.ts / 04/09/2024 - - done with 1 approaches </br>
 Rank 14,37,244 --> Find_the_Difference_3_Approaches_Phone_Interview_AMAZON_Leetcode_389.ts / 01/03/2025 - - done with 4 approaches </br>
 Rank 16,36,854 --> 342. Power of Four / 15/08/2025 - - done with 3 approaches </br>
+Rank 1,739,314 --> 2824 Count Pairs Whose Sum is Less than Target / 13/12/2025 - - done  </br>
